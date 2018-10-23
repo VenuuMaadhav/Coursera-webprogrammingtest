@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Responsive Layout</title>
+   <link href="w.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <h1>Our Menu</h1>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-xs-12">
+        	<div>
+        		<p class="title1">Chicken</p>
+           		<p class="content">Note the horizontal spacing between the edges of the section and the edges of the browser window. Also, note the spacing between the dummy text in each section and the edges of the section. Lastly, make sure the dummy text is "pushed down" enough so it doesn't overlap the section title region</p>
+       		</div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-xs-12">
+        	  <p class="title2">Beef</p>
+            <p class="content">Note the horizontal spacing between the edges of the section and the edges of the browser window. Also, note the spacing between the dummy text in each section and the edges of the section. Lastly, make sure the dummy text is "pushed down" enough so it doesn't overlap the section title region</p>
+        </div>
+        <div class="col-lg-4 col-md-12 col-xs-12">
+        	    	<p class="title3">Sushi</p>
+            <p class="content">Note the horizontal spacing between the edges of the section and the edges of the browser window. Also, note the spacing between the dummy text in each section and the edges of the section. Lastly, make sure the dummy text is "pushed down" enough so it doesn't overlap the section title region</p>
+        </div>
+    </div>
+</body></html>
